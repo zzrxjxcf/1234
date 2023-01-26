@@ -1,0 +1,313 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 创建的文件:24.03.2015 05:31:49
+
+newmtl Material__602
+	Ns 46.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.7380 0.7380 0.7380
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Z:\资源库\Models\168\44\DB9 HEADLIGHT.tga
+	map_Kd Z:\资源库\Models\168\44\DB9 HEADLIGHT.tga
+	map_refl Map__156_Raytrace.tga
+
+newmtl Misc
+	Ns 52.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.6660 0.6660 0.6660
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Z:\资源库\Models\168\44\DB9 HEADLIGHT.tga
+	map_Kd Z:\资源库\Models\168\44\DB9 HEADLIGHT.tga
+
+newmtl Interior
+	Ns 32.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.3240 0.3240 0.3240
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Z:\资源库\Models\168\44\DB9 INTERIOR.tga
+	map_Kd Z:\资源库\Models\168\44\DB9 INTERIOR.tga
+
+newmtl Driver
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Z:\资源库\Models\168\44\DRIVER.tga
+	map_Kd Z:\资源库\Models\168\44\DRIVER.tga
+
+newmtl wire_113134006
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.4431 0.5255 0.0235
+	Kd 0.4431 0.5255 0.0235
+	Ks 0.3500 0.3500 0.3500
+
+newmtl Material__605
+	Ns 48.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9180 0.9180 0.9180
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Z:\资源库\Models\168\44\DB9 BRAKELIGHT.tga
+	map_Kd Z:\资源库\Models\168\44\DB9 BRAKELIGHT.tga
+
+newmtl wire_143224087
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.5608 0.8784 0.3412
+	Kd 0.5608 0.8784 0.3412
+	Ks 0.3500 0.3500 0.3500
+
+newmtl Material__607
+	Ns 42.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0863 0.0863 0.0863
+	Kd 0.0863 0.0863 0.0863
+	Ks 0.9180 0.9180 0.9180
+	Ke 0.0000 0.0000 0.0000
+
+newmtl License
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.3330 0.3330 0.3330
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Z:\资源库\Models\168\44\8.jpg
+	map_Kd Z:\资源库\Models\168\44\8.jpg
+
+newmtl Chrome
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.3330 0.3330 0.3330
+	Ke 0.0000 0.0000 0.0000
+	map_refl Map__149_Raytrace.tga
+
+newmtl wire_177028149
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.6941 0.1098 0.5843
+	Kd 0.6941 0.1098 0.5843
+	Ks 0.3500 0.3500 0.3500
+
+newmtl wire_008061138
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.0314 0.2392 0.5412
+	Kd 0.0314 0.2392 0.5412
+	Ks 0.3500 0.3500 0.3500
+
+newmtl wire_153228214
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.6000 0.8941 0.8392
+	Kd 0.6000 0.8941 0.8392
+	Ks 0.3500 0.3500 0.3500
+
+newmtl wire_028028177
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.1098 0.1098 0.6941
+	Kd 0.1098 0.1098 0.6941
+	Ks 0.3500 0.3500 0.3500
+
+newmtl DoorLine
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Z:\资源库\Models\168\44\DOORLINE.tga
+	map_Kd Z:\资源库\Models\168\44\DOORLINE.tga
+	map_d Z:\资源库\Models\168\44\DOORLINE MASK.tga
+
+newmtl Badging_Chrome
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.3330 0.3330 0.3330
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Z:\资源库\Models\168\44\DB9 BADGING.tga
+	map_Kd Z:\资源库\Models\168\44\DB9 BADGING.tga
+	map_d Z:\资源库\Models\168\44\DB9 BADGING MASK.tga
+	map_bump -bm 0.3000 Map__139_法线凹凸.tga
+	map_refl Map__10_Mask.tga
+
+newmtl Black
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl wire_154154229
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.6039 0.6039 0.8980
+	Kd 0.6039 0.6039 0.8980
+	Ks 0.3500 0.3500 0.3500
+
+newmtl Bottom
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Z:\资源库\Models\168\44\BOTTOM.tga
+	map_Kd Z:\资源库\Models\168\44\BOTTOM.tga
+
+newmtl Brake_Disc
+	Ns 47.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.6570 0.6570 0.6570
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Z:\资源库\Models\168\44\BRAKDISC.tga
+	map_Kd Z:\资源库\Models\168\44\BRAKDISC.tga
+	map_d Z:\资源库\Models\168\44\TIREBACK.tga
+
+newmtl Brake_Pads
+	Ns 37.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.4320 0.4320 0.4320
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Z:\资源库\Models\168\44\DB9 MISC.tga
+	map_Kd Z:\资源库\Models\168\44\DB9 MISC.tga
+
+newmtl Tire_Back
+	Ns 15.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1922 0.1922 0.1922
+	Kd 0.1922 0.1922 0.1922
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_d Z:\资源库\Models\168\44\TIREBACK.tga
+
+newmtl Tire_Tread
+	Ns 33.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1922 0.1922 0.1922
+	Kd 0.1922 0.1922 0.1922
+	Ks 0.4100 0.4100 0.4100
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Z:\资源库\Models\168\44\tread_tm.tga
+	map_Kd Z:\资源库\Models\168\44\tread_tm.tga
+	map_bump -bm 0.3000 Map__5_法线凹凸.tga
+
+newmtl Tire_Sidewall
+	Ns 38.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1922 0.1922 0.1922
+	Kd 0.1922 0.1922 0.1922
+	Ks 0.4100 0.4100 0.4100
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Z:\资源库\Models\168\44\TIRE.tga
+	map_Kd Z:\资源库\Models\168\44\TIRE.tga
+	map_bump Z:\资源库\Models\168\44\TIRE BUMP.tga
+	bump Z:\资源库\Models\168\44\TIRE BUMP.tga
